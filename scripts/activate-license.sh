@@ -1,4 +1,4 @@
-echo "Activating license for help Check Telegram: @nakedpages"
+echo "Activating license for help Check Telegram: @atxBLP"
 
 if [ $# -eq 0 ]
   then

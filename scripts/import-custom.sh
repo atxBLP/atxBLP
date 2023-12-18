@@ -27,7 +27,7 @@ rm -rf appx0.zip
 
 cd ../..
 
-echo "Done restarting nakedpages..."
+echo "Done restarting atxBLP..."
 
 npm run restart
 

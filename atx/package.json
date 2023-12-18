@@ -1,5 +1,5 @@
 {
-  "name": "nakedpages",
+  "name": "atxBLP",
   "version": "1.0.0",
   "description": "builder template for naked pages",
   "main": "index.js",
@@ -10,10 +10,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start atx.app --interpreter none --name 'nakedpages' --instances 1",
-    "restart": "pm2 restart nakedpages",
-    "stop": "pm2 stop nakedpages",
-    "logs": "pm2 logs nakedpages",
+    "start": "pm2 start atx.app --interpreter none --name 'atxBLP' --instances 1",
+    "restart": "pm2 restart atxBLP",
+    "stop": "pm2 stop atxBLP",
+    "logs": "pm2 logs atxBLP",
     "debug": "./atx.app"
   },
   "author": "",
